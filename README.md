@@ -11,4 +11,5 @@ I'm a {frontend} developer IT student with front end skills
 
 -current age: 16
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DsK-David&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DsK-David&show_icons=true&theme=radical)
+![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DsK-David&layout=compact&langs_count=16&theme=dracula)
