@@ -20,3 +20,4 @@
 # Stats#
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DsK-David&show_icons=true&theme=radical)
 ![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DsK-David&layout=compact&langs_count=16&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DsK-David)](https://github.com/DsK-David/github-readme-stats)
