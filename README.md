@@ -17,9 +17,11 @@
 - Sou um ser completo sei editar,produzir musicas entre outros
 - Nesse momento estou em estudos mais oque eu sei fazer poucos conseguem
 # linguagens #
-![CSS3](https://img.shields.io/badge/html5-%234B275F.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/js-%234B275F.svg?logo=js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%234B275F.svg?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 
 # Stats#
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DsK-David&show_icons=true&theme=radical)
