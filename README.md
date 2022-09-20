@@ -16,8 +16,12 @@
 - Expecializo em JavaScript
 - Sou um ser completo sei editar,produzir musicas entre outros
 - Nesse momento estou em estudos mais oque eu sei fazer poucos conseguem
+# linguagens #
+![CSS3](https://img.shields.io/badge/html5-%234B275F.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/js-%234B275F.svg?logo=js&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
 # Stats#
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DsK-David&show_icons=true&theme=radical)
 ![github lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DsK-David&layout=compact&langs_count=16&theme=dracula)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DsK-David)](https://github.com/DsK-David/github-readme-stats)
+
