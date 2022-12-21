@@ -1,22 +1,22 @@
  Hi, I'm David! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DsK-David)](https://github.com/DsK-David)
-# Socias #
+# Redes Socias #
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsk-david-048b1021a)](https://www.linkedin.com/in/dsk-david-048b1021a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DsKDavid13?s=09)](https://twitter.com/DsKDavid13?s=09)
 [![instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f3&logo=instagram&logoColor=white&link=https://www.instagram.com/n0_0ne__dsk/)](https://www.instagram.com/n0_0ne__dsk/)
 
 # Sobre mim #
 - sou frontend
-- Gosto de aprender novas tecnologias
-- Um pouco curioso
-- Gosto de enovar nos meus projetos pensar em coisas diferentes
-- Tenhos grandes objetivos,uma delas é ser o melhor no ramo e eu sei que vou conseguir
-- Sou muito confiante
-- Escrevo clean code
-- Expecializo em JavaScript
-- Sou um ser completo sei editar,produzir musicas entre outros
-- Nesse momento estou em estudos mais oque eu sei fazer poucos conseguem
+- Gosto de aprender novas tecnologias.
+- Um pouco curioso.
+- Gosto de enovar nos meus projetos, pensar em coisas diferentes.
+- Tenhos grandes objetivos,uma delas é ser o melhor no ramo e eu sei que vou conseguir.
+- Sou muito confiante.
+- Escrevo clean code.
+- Expecializo em JavaScript.
+- Sou um ser completo sei editar,produzir musicas entre outros.
+- Nesse momento estou em estudos mais oque eu sei fazer poucos conseguem.
 # linguagens #
 ![HTML5](https://img.shields.io/badge/html5-%234B275F.svg?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
