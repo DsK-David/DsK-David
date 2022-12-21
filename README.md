@@ -4,7 +4,7 @@
 # Socias #
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsk-david-048b1021a)](https://www.linkedin.com/in/dsk-david-048b1021a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DsKDavid13?s=09)](https://twitter.com/DsKDavid13?s=09)
-[![Twitter Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f3&logo=twitter&logoColor=white&link=https://www.instagram.com/n0_0ne__dsk/)](https://www.instagram.com/n0_0ne__dsk/)
+[![instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f3&logo=instagram&logoColor=white&link=https://www.instagram.com/n0_0ne__dsk/)](https://www.instagram.com/n0_0ne__dsk/)
 
 # Sobre mim #
 - sou frontend
