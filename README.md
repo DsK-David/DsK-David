@@ -2,7 +2,7 @@
 
 ## Olá, eu sou David Silva 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um programador apaixonado com 3 anos de experiência na indústria de tecnologia. Minha especialidade está no desenvolvimento web usando HTML, CSS, JavaScript e Node.js. Tive o prazer de trabalhar em vários projetos especiais, demonstrando minhas habilidades e dedicação ao mundo da tecnologia.
+Bem-vindo ao meu perfil do GitHub! Sou um programador apaixonado com mais de 3 anos de experiência na indústria de tecnologia. Minha especialidade está no desenvolvimento web usando HTML, CSS, JavaScript e Node.js. Tive o prazer de trabalhar em vários projetos especiais, demonstrando minhas habilidades e dedicação ao mundo da tecnologia.
 
 ### 🔧 Tecnologias e Ferramentas que eu uso
 
